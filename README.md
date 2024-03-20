@@ -34,3 +34,5 @@ with noise or sine waves required some math and geometry that I found somewhat
 challenging. I hope to use more mathematical concepts in my future works. Overall, I 
 really enjoyed making an experimental game and hope to tackle similar concepts in my 
 other projects.
+
+To play: https://yaseminmelek.github.io/Coding-One-Final--Fragmentation/
